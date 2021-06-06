@@ -1,0 +1,5 @@
+changing the project spesefication to the new one 
+the script will generate the app no need to change an existant project 
+-first create a script to listen to the boot and fill the requirement asked by the client
+-take all this data and organise it in a mongo db database
+-create a secound python script that will generate a flutter project from the database
